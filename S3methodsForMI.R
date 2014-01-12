@@ -1,3 +1,5 @@
+### Additional S3 methods for the "MI" class objects created by Zelig/Amelia II
+
 ## print method
 print.MI <- function(object) {
 
